@@ -89,7 +89,27 @@ var upperCasedCharacters = [
 ]
 
 // Function to prompt user for password options
-function getPasswordOptions() {}
+function getPasswordOptions() {
+	var hasLowercase = confirm('Do want to use lowercase letters?')
+	console.log(hasLowercase)
+
+	var hasUppercase = confirm('Do want to use uppercase letters?')
+	console.log(hasUppercase)
+
+	var hasNumeric = confirm('Do want to use numeric?')
+	console.log(hasNumeric)
+
+	var hasSpecial = confirm('Do want to use special characters?')
+	console.log(hasSpecial)
+
+	return {
+		hasLowercase,
+		hasUppercase,
+		hasNumeric,
+		hasSpecial,
+	}
+}
+// getPasswordOptions()
 
 // Function for getting a random element from an array
 function getRandom(arr) {}
