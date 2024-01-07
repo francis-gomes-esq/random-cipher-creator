@@ -121,9 +121,20 @@ function getRandom(arr) {
 function generatePassword() {
 	var passwordLength = prompt('Please enter the length of your password')
 	// console.log(passwordLength)
-	if (passwordLength < 8 || passwordLength > 128) {
-		alert('Please enter a number between 8 and 128')
-		return generatePassword()
+
+	// Check if the user clicked cancel
+	if (passwordLength === null) {
+		alert('Password generation canceled.')
+		return null // Return null to indicate canceled generation
+	}
+
+	// Convert the password length to a number
+	passwordLength = parseInt(passwordLength)
+
+	// Check if the entered value is a valid number
+	if (isNaN(passwordLength) || passwordLength < 8 || passwordLength > 128) {
+		alert('Please enter a valid number between 8 and 128')
+		return generatePassword() // Retry password generation
 	}
 	// console.log('Valid number')
 	var options = getPasswordOptions()
