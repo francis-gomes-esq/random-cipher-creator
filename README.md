@@ -21,9 +21,13 @@ N/A
 
 You can view the website via this link: [add url after deployment]
 
+## Animated gifs
+
 -   ![random cipher creator](./gifs/e2e.gif)
 -   ![random cipher creator](./gifs/cancel.gif)
 -   ![random cipher creator](./gifs/negative.gif)
+
+## Screenshots
 
 -   ![alt text](assets/images/func_1.png)
 -   ![alt text](assets/images/func_2a.png)
