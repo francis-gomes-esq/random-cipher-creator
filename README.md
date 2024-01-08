@@ -21,7 +21,25 @@ N/A
 
 You can view the website via this link:
 
-![alt text](assets/images/screenshot.png)
+-   ![alt text](assets/images/func_1.png)
+-   ![alt text](assets/images/func_2a.png)
+-   ![alt text](assets/images/func_2b.png)
+-   ![alt text](assets/images/func_3.png)
+-   ![alt text](assets/images/rcc-html_001.png)
+-   ![alt text](assets/images/rcc_01.png)
+-   ![alt text](assets/images/rcc_02.png)
+-   ![alt text](assets/images/rcc_03.png)
+-   ![alt text](assets/images/rcc_04.png)
+-   ![alt text](assets/images/rcc_05.png)
+-   ![alt text](assets/images/rcc_06.png)
+-   ![alt text](assets/images/rcc_07.png)
+-   ![alt text](assets/images/rcc_08.png)
+-   ![alt text](assets/images/rcc_09.png)
+-   ![alt text](assets/images/rcc_10.png)
+-   ![alt text](assets/images/rcc_11.png)
+-   ![alt text](assets/images/rcc_12.png)
+-   ![alt text](assets/images/rcc_13.png)
+-   ![alt text](assets/images/rcc_14.png)
 
 ## Credits
 
