@@ -21,9 +21,9 @@ N/A
 
 You can view the website via this link: [add url after deployment]
 
--   ![](blob/master/Gifs/e2e.git)
--   ![](blob/master/Gifs/cancel.git)
--   ![](blob/master/Gifs/negative.git)
+-   ![random cipher creator](./gifs/e2e.gif)
+-   ![random cipher creator](./gifs/cancel.gif)
+-   ![random cipher creator](./gifs/negative.gif)
 
 -   ![alt text](assets/images/func_1.png)
 -   ![alt text](assets/images/func_2a.png)
