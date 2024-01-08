@@ -23,9 +23,9 @@ You can view the website via this link: [add url after deployment]
 
 ## Animated gifs
 
--   ![random cipher creator](./gifs/e2e.gif)
 -   ![random cipher creator](./gifs/cancel.gif)
 -   ![random cipher creator](./gifs/negative.gif)
+-   ![random cipher creator](./gifs/e2e.gif)
 
 ## Screenshots
 
