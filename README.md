@@ -56,9 +56,9 @@ You can view the website via this link: [add url after deployment]
 
 ### List of third-party assets.
 
+-   Stackoverflow: https://bit.ly/stackoverflow-functions
+-   Code with Mosh: https://bit.ly/code-with-mosh
 -   Class activity: 05-advanced-javascript-module/04-password-generator-lesson/challenge
--   Stackoverflow: https://stackoverflow.com/questions/59504465/generate-random-password-based-on-user-input-in-javascript
--   Code with Bash: https://forum.codewithmosh.com/t/creating-a-password-generator-using-javascript/18971
 
 ## License
 
