@@ -19,7 +19,7 @@ N/A
 
 ## Usage
 
-You can view the website via this link: [add url after deployment]
+You can view the website via this link: https://francis-gomes-esq.github.io/random-cipher-creator/
 
 ## Animated gifs
 
