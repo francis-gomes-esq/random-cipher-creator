@@ -21,11 +21,9 @@ N/A
 
 You can view the website via this link: [add url after deployment]
 
-https://share.zight.com/RBukw6b4
-
-https://share.zight.com/X6uXrW7X
-
-https://share.zight.com/geuBl8Ox
+-   ![]https://github.com/blob/master/Gifs/e2e.git
+-   ![]https://github.com/blob/master/Gifs/cancel.git
+-   ![]https://github.com/blob/master/Gifs/negative.git
 
 -   ![alt text](assets/images/func_1.png)
 -   ![alt text](assets/images/func_2a.png)
