@@ -21,9 +21,9 @@ N/A
 
 You can view the website via this link: [add url after deployment]
 
--   ![]https://github.com/blob/master/Gifs/e2e.git
--   ![]https://github.com/blob/master/Gifs/cancel.git
--   ![]https://github.com/blob/master/Gifs/negative.git
+-   ![alt text](https://github.com/blob/master/Gifs/e2e.git)
+-   ![alt text](https://github.com/blob/master/Gifs/cancel.git)
+-   ![alt text](https://github.com/blob/master/Gifs/negative.git)
 
 -   ![alt text](assets/images/func_1.png)
 -   ![alt text](assets/images/func_2a.png)
